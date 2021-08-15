@@ -5,7 +5,7 @@ const SideFilter = () => {
   return (
     <aside className={styles.mainSide}>
       <div>
-        <h4>Category</h4>
+        <h4>Filter</h4>
         <ul>
           <li>
             <input type="checkbox" />
